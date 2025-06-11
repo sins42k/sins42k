@@ -2,7 +2,7 @@
 
   <!-- header -->
   <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=lexilux0&fontSize=60&fontColor=ffffff&fontAlign=80" 
+    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=sins42k&fontSize=60&fontColor=ffffff&fontAlign=80" 
     alt="header" 
   />
 
