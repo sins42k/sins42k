@@ -49,7 +49,7 @@
 
 <br/>
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sins42k&theme=tokyo-night)](https://github.com/sins42k/)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sins42k&bg_color=ffffff&color=0000ff&line=0000ff&point=6a57ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <hr>
 
