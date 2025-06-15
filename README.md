@@ -4,29 +4,24 @@
   <img 
     src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=sins42k&fontSize=60&fontColor=ffffff&fontAlign=80" 
     alt="header" 
+    width="100%"
   />
 
   <br/>
-
-  <!-- GitHub Stats & Top Langs -->
-  <a href="https://github.com/sins42k">
     <img 
-      src="https://github-readme-stats.vercel.app/api?username=sins42k&show_icons=true&theme=tokyonight&hide_border=true" 
+      src="https://github-readme-stats.vercel.app/api?username=sins42k&show_icons=true&theme=light&hide_border=true" 
       height="200" 
       width="49.7%"
       align="center" 
       alt="GitHub Stats" 
     />
-  </a>
-  <a href="https://github.com/sins42k?tab=repositories">
     <img 
-      src="https://github-readme-stats.vercel.app/api/top-langs?username=sins42k&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" 
+      src="https://streak-stats.demolab.com/?user=sins42k&theme=light" 
       height="200" 
       width="49.7%"
       align="center" 
-      alt="Top Languages" 
+      alt="GitHub Streak" 
     />
-  </a>
 
 </div>
 
@@ -38,16 +33,16 @@
   <img 
     src="http://mazassumnida.wtf/api/v2/generate_badge?boj=triple07" 
     height="200" 
-    width="49.7%"
+    width="59.7%"
     align="center"
     alt="BOJ Badge" 
   />
   <img 
-    src="https://streak-stats.demolab.com/?user=sins42k&theme=tokyonight" 
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=sins42k&layout=compact&langs_count=8&theme=light&hide_border=true" 
     height="200" 
-    width="49.7%"
+    width="39.7%"
     align="center" 
-    alt="GitHub Streak" 
+    alt="Top Languages" 
   />
 
 </div>
@@ -55,10 +50,6 @@
 <br/>
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sins42k&theme=tokyo-night)](https://github.com/sins42k/)
-
-<!-- Solved.ac 미니 프로필 & 한줄 소개 -->
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=triple07)](https://solved.ac/triple07)  
-**lexilux0's GitHub** *@lexilux0*
 
 <hr>
 
