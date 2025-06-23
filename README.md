@@ -69,7 +69,7 @@
 
 🌐 **Contact & Links**  
 <a href="mailto:sins88705@gmail.com">
-  <img src="https://img.shields.io/badge/chlwjddn070619@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <img src="https://img.shields.io/badge/sins88705@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 <a href="https://velog.io/@sins42k/posts">
   <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white" alt="Velog" />
