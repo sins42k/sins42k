@@ -9,14 +9,14 @@
 
   <br/>
     <img 
-      src="https://github-readme-stats.vercel.app/api?username=sins42k&show_icons=true&theme=light&hide_border=true" 
+      src="https://github-readme-stats.vercel.app/api?username=sins42k&show_icons=true&theme=tokyonight&hide_border=true" 
       height="200" 
       width="49.7%"
       align="center" 
       alt="GitHub Stats" 
     />
     <img 
-      src="https://streak-stats.demolab.com/?user=sins42k&theme=light" 
+      src="https://streak-stats.demolab.com/?user=sins42k&theme=tokyonight" 
       height="200" 
       width="49.7%"
       align="center" 
@@ -38,7 +38,7 @@
     alt="BOJ Badge" 
   />
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=sins42k&layout=compact&langs_count=8&theme=light&hide_border=true" 
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=sins42k&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" 
     height="200" 
     width="39.7%"
     align="center" 
@@ -49,7 +49,7 @@
 
 <br/>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sins42k&bg_color=ffffff&color=0000ff&line=0000ff&point=6a57ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sins42k&bg_color=999999f&color=0000ff&line=0000ff&point=6a57ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <hr>
 
