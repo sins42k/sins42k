@@ -32,7 +32,6 @@
   <!-- BOJ & GitHub Streak -->
   <img 
     src="http://mazassumnida.wtf/api/v2/generate_badge?boj=triple07" 
-    height="200" 
     width="59.7%"
     align="center"
     alt="BOJ Badge" 
