@@ -9,20 +9,11 @@
 
   <br/>
     <img 
-      src="https://github-readme-stats.vercel.app/api?username=sins42k&show_icons=true&theme=tokyonight&hide_border=true" 
-      height="200" 
-      width="49.7%"
-      align="center" 
-      alt="GitHub Stats" 
-    />
-    <img 
-      src="https://streak-stats.demolab.com/?user=sins42k&theme=tokyonight" 
-      height="200" 
-      width="49.7%"
-      align="center" 
-      alt="GitHub Streak" 
-    />
-
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=sins42k&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" 
+    width="100%"
+    align="center" 
+    alt="Top Languages" 
+  />
 </div>
 
 <br/>
@@ -37,12 +28,11 @@
     alt="BOJ Badge" 
   />
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=sins42k&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" 
-    height="200" 
-    width="39.7%"
-    align="center" 
-    alt="Top Languages" 
-  />
+      src="https://github-readme-stats.vercel.app/api?username=sins42k&show_icons=true&theme=tokyonight&hide_border=true" 
+      width="35%"
+      align="center" 
+      alt="GitHub Stats" 
+    />
 
 </div>
 
